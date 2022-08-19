@@ -1,0 +1,122 @@
+body{
+    background-color: wheat;
+    text-align: center;
+}
+h1{
+    font-family: 'Caveat', cursive;
+}
+.heading-one{
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading-four{
+    font-size: 120px;
+    font-weight: bold;
+}
+.btn{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.first-container{
+    /* background-image:url("imgs/Home.png") ;
+    background-size: 1200px; 7F8487*/
+    background-color:#3F4E4F;
+    margin: 0 auto;
+    padding: 15px 0;
+    padding-top: 5rem;
+    padding-bottom: 15rem;
+    font-family: 'DynaPuff', cursive; 
+    color: #FFE6BC;
+    
+
+}
+
+/* #483434; 2D2424*/
+.second-container{
+    background-color:#2D2424;    
+    /* background-image:url("imgs/About.png") ;
+    background-size: contain; */
+    padding: 15px 0;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    margin: 0 auto;
+    font-family: 'DynaPuff', cursive; 
+    color: #FF5D5D;
+    
+}
+
+.third-container{
+    /* background-image:url("imgs/Products.png") ;
+    background-size: contain; */
+    background-color: #C68B59;
+    margin: 0 auto;
+    padding: 15px 0;
+    padding-top: 5rem;
+    padding-bottom: 15rem;
+    font-family: 'DynaPuff', cursive; 
+    color:#2E0249;
+   
+}
+
+.fourth-container{
+    /* background-image:url("imgs/News.png") ;
+    background-size: contain; */
+    background-color: wheat;
+    margin:0% auto;
+    padding: 15px 0;
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+    font-family: 'DynaPuff', cursive; 
+    color:#570530;
+    
+}
+/* images */
+
+.home-image{
+    width: 450px;
+    float: right;
+    clip-path: circle();
+    margin-right: 120px;
+}
+.about-image{ 
+    clip-path: circle();
+    width: 550px;
+    float: left;
+    margin-left: 120px;
+}
+.about2-image{
+    width:650px;
+    clip-path: circle();
+    
+}
+.product-image{
+    width: 650px;
+    float: right;
+}
+.news-image{
+    width: 650px;
+    
+    margin-top: 90px;
+}
+
+
+
+#footer{
+    padding-top: 1rem ;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 1rem;
+}
+.insta-image{
+    width: 60px;
+    height:60px;
+    margin: 20px 10px;
+
+}
+.linktree{
+    width: 60px;
+    height:60px;
+    margin: 20px 10px;
+
+}
+.copyright{
+    padding-bottom: 0.5rem;
+}
